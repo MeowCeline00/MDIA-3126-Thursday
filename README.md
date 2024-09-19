@@ -8,4 +8,3 @@
 - how to bring multiple lines to the place I want at the same time.
 ## 1 word how you are feeling
 - understandable
-## open a pull request and tag @yourpalsonja
